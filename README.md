@@ -15,7 +15,7 @@ This repository contains my completed **Cisco Networking Academy certification**
 **Completion Date:** 08 October 2026  
 **Certificate ID:** `40cd6ecb-4670-4b30-8ad5-87cefac91a38`
 
-📄 [View Certificate](./cisco%20tracer%20certificate.pdf)
+📄 [View Certificate](./cisco tracer certificate.pdf)
 
 ## 🎯 What I Learned
 
